@@ -1,1 +1,1 @@
-This is Created to learn git version control in efficient manner.
+This is created to learn git version control in efficient manner.
